@@ -18,4 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ContecGlobal-Aditya&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=its-aadi&icon=5&color=3)](https://visitcount.itsvg.in)
